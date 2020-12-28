@@ -1,1 +1,1 @@
-# docker-nginx-php
+# Docker - nginx & php
